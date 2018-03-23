@@ -166,13 +166,13 @@ TomoCoin目前已上线IDEX（gate.io近期也将上线），在市场大环境�
 
 ### 加入社区
 
-* Coeffient-Tomochain微信社区
+* Tomochain 微信公众号
 
-[![eKf5H.md.png](https://s1.ax2x.com/2018/03/17/eKf5H.md.png)](https://simimg.com/i/eKf5H)
+![UiwFN.jpg](https://s1.ax2x.com/2018/03/21/UiwFN.jpg)
 
-* Coefficient-TomoChain QQ社区
+* TomoChain官方中文社区
 
-![eKyYl.jpg](https://s1.ax2x.com/2018/03/17/eKyYl.jpg)
+![UiIy3.jpg](https://s1.ax2x.com/2018/03/21/UiIy3.jpg)
 
 ***
 
@@ -191,3 +191,5 @@ TomoCoin目前已上线IDEX（gate.io近期也将上线），在市场大环境�
 ***
 
 ![LJjor.jpg](https://s1.ax2x.com/2018/03/14/LJjor.jpg)
+
+delete
